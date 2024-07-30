@@ -4,6 +4,6 @@ Openai api client automatically generated from openapi spec
 
 |---------+-------------------------------------------------------------|
 | source  | git:https://codeberg.org/kilianmh/openai-openapi-client.git |
-| commit  | c6f459d                                                     |
+| commit  | 20c91d3                                                     |
 | systems | openai-openapi-client                                       |
 |---------+-------------------------------------------------------------|
